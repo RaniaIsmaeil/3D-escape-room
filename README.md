@@ -92,7 +92,7 @@ npm run build
 npm run preview
 ```
 
-## 🎯 Portfolio Features
+## 🎯 Highlights
 
 - Clean, modular architecture
 - Reusable component patterns
