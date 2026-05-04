@@ -83,7 +83,6 @@ src/
 - **Click objects** - Interact
 - **Right-click inventory** - Inspect item
 - **Escape** - Pause menu
-- **Ctrl+S** - Save game
 - **Ctrl+H** - Use hint
 
 ## 📦 Build for Production
